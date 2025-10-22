@@ -7,7 +7,7 @@ const Header = () => {
       <div className="container">
         <div className="flex items-center justify-between">
           <Link to={"/home"} className="text-2xl font-bold text-red-500">
-            Students blog site
+            My blog site
           </Link>
 
           <nav className="flex items-center gap-5">
