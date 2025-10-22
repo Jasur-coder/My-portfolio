@@ -1,8 +1,10 @@
+import Banner from "../component/banner"
+
 
 const Home = () => {
-  return (
-    <h2>Home v</h2>
-  )
+	return (
+		<Banner/>
+	)
 }
 
 export default Home
